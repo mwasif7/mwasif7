@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad Wasif
-- 👀 I’m interested in Learning new tech stuffs
-- 🌱 I’m currently learning .Net Core, prior experience on various microsoft technologies like ASP.NET MVC, SQL Server
-- 💞️ I’m looking to collaborate on .Net Core related works
-- 📫 You can reach out to me on: mohammadwasif7@yahoo.com
-Adding test line
+- 👀 I've got an insatiable curiosity for learning the latest in tech.
+- 🌱 I thrive on embracing new challenges using C#, TypeScript, and Python.
+- 💞️ I’m looking to collaborate on Web Projects, ML.
+- 📫 Drop me a line at mohammadwasif7@yahoo.com and let's dive into the exciting world of tech together!
