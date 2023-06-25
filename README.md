@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Wasif
 - 👀 I've got an insatiable curiosity for learning the latest in tech.
 - 🌱 I thrive on embracing new challenges using C#, TypeScript, and Python.
-- 💞️ I’m looking to collaborate on Web Projects, ML.
+- 💞️ I’m looking to collaborate on Web Projects and ML.
 - 📫 Drop me a line at mohammadwasif7@yahoo.com and let's dive into the exciting world of tech together!
